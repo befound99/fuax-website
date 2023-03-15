@@ -204,13 +204,13 @@ nav {
 .card {
     width: 250px;
     padding: 30px 30px 60px 30px;
-    background-color: rgb(226, 133, 110);
     display: flex;
     margin: 20px 10px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     border-radius: 5px;
+    background-color: rgb(43, 13, 5);
 
 }
 .card-icon {
